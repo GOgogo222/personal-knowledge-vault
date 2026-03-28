@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/LeetCode_Daily.md",
+                "file": "Clippings/00 后双非电商专业毕业，每周 4 场 AI 沙龙，我的能力从何而来？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LeetCode_Daily"
+              "title": "00 后双非电商专业毕业，每周 4 场 AI 沙龙，我的能力从何而来？"
             }
           }
         ]
@@ -180,11 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "389a668c336f750e",
+  "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
+    "LeetCode/LeetCode_Daily.md",
+    "Clippings/00 后双非电商专业毕业，每周 4 场 AI 沙龙，我的能力从何而来？.md",
+    "Clippings",
     "数据结构与算法.md",
     "天梯赛.md",
-    "LeetCode/LeetCode_Daily.md",
     "Linux命令行.md",
     "LeetCode/未命名.md",
     "LeetCode/(0034. Find First and Last Position of Element in Sorted Array.md",
@@ -209,7 +211,6 @@
     "LeetCode/2487. Remove Nodes From Linked List.md",
     "LeetCode/0817. Linked List Components.md",
     "LeetCode/0725. Split Linked List in Parts.md",
-    "LeetCode/(0076. Minimum Window Substring.md",
     "Attachments/PWM&PWM模块&信号发生器.png",
     "Attachments/句柄是什么.png",
     "LeetCode/(1423. Maximum Points You Can Obtain from Cards",
@@ -226,7 +227,6 @@
     "[Project-2",
     "Attachments",
     "AssetsImages",
-    "新建文件夹",
-    "未命名.base"
+    "新建文件夹"
   ]
 }
