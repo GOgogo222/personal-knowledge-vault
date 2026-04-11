@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "86194f924be1c273",
+        "id": "313b2ae32f7ac402",
         "type": "tabs",
         "children": [
           {
-            "id": "c8c32de085824a9a",
+            "id": "442272e76575a33a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/如何在 AI 时代保持自己的专注力.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "如何在 AI 时代保持自己的专注力"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/如何在 AI 时代保持自己的专注力.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "如何在 AI 时代保持自己的专注力 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clippings/如何在 AI 时代保持自己的专注力.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "如何在 AI 时代保持自己的专注力 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/如何在 AI 时代保持自己的专注力.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "如何在 AI 时代保持自己的专注力 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -183,14 +176,21 @@
       "bases:新建数据库": false
     }
   },
-  "active": "1fd0e29b70f49ee9",
+  "active": "442272e76575a33a",
   "lastOpenFiles": [
-    "raw/如何在 AI 时代保持自己的专注力.md",
+    "wiki/concepts/习得性无助.md",
+    "wiki/concepts/注意力管理.md",
+    "wiki/sources/如何在AI时代保持自己的专注力.md",
+    "CLAUDE.md",
+    "wiki/index.md",
+    "@longdechen12.md",
     "Clippings/如何在 AI 时代保持自己的专注力.md",
+    "wiki/concepts/刻意练习.md",
+    "wiki/concepts/心流.md",
+    "wiki/entities/longdechen12.md",
+    "raw/如何在 AI 时代保持自己的专注力.md",
     "Clippings",
     "wiki/log.md",
-    "wiki/index.md",
-    "CLAUDE.md",
     "wiki/queries",
     "wiki/sources",
     "wiki/concepts",

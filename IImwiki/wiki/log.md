@@ -5,6 +5,22 @@ Each entry starts with `## [YYYY-MM-DD] <operation> | <title>` for grep-parseabi
 
 ---
 
+## [2026-04-11] ingest | 如何在 AI 时代保持自己的专注力
+
+- 原文：`raw/如何在 AI 时代保持自己的专注力.md`
+- 来源：@longdechen12，X，2026-04-10
+- 摘要页：[[sources/如何在AI时代保持自己的专注力]]
+- 新建页面：
+  - [[entities/longdechen12]]
+  - [[concepts/注意力管理]]
+  - [[concepts/心流]]
+  - [[concepts/习得性无助]]
+  - [[concepts/刻意练习]]
+- 更新：`wiki/index.md`
+- 无矛盾（首次 ingest）
+
+---
+
 ## [2026-04-11] init | Wiki initialized
 
 - Created directory structure: `raw/`, `raw/assets/`, `wiki/entities/`, `wiki/concepts/`, `wiki/sources/`, `wiki/queries/`
