@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "00 后双非电商专业毕业，每周 4 场 AI 沙龙，我的能力从何而来？"
             }
-          },
-          {
-            "id": "9d19435297dd6e3e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d19435297dd6e3e",
+  "active": "ab0e1f8128bffe4d",
   "lastOpenFiles": [
+    "未命名",
     "LeetCode/LeetCode_Daily.md",
     "Clippings/00 后双非电商专业毕业，每周 4 场 AI 沙龙，我的能力从何而来？.md",
     "Clippings",
@@ -223,7 +211,6 @@
     "LeetCode/0189. otate Array.md",
     "LeetCode/2487. Remove Nodes From Linked List.md",
     "LeetCode/0817. Linked List Components.md",
-    "LeetCode/0725. Split Linked List in Parts.md",
     "Attachments/PWM&PWM模块&信号发生器.png",
     "Attachments/句柄是什么.png",
     "LeetCode/(1423. Maximum Points You Can Obtain from Cards",
