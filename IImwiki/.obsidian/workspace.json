@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97f99b7f23b741e2",
+        "id": "86194f924be1c273",
         "type": "tabs",
         "children": [
           {
-            "id": "372fe54c3d1c3713",
+            "id": "c8c32de085824a9a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,7 +176,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "372fe54c3d1c3713",
+  "active": "c8c32de085824a9a",
   "lastOpenFiles": [
     "欢迎.md"
   ]

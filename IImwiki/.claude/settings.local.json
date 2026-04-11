@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:gist.github.com)",
+      "Bash(curl -s \"https://api.github.com/gists/442a6bf555914893e9891c11519de94f\")",
+      "Bash(python3 -c \"import json,sys; g=json.load\\(sys.stdin\\); [print\\(f['filename'],'\\\\n---\\\\n',f['content']\\) for f in g['files'].values\\(\\)]\")",
+      "WebSearch"
+    ]
+  }
+}
