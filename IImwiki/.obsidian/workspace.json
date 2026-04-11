@@ -11,10 +11,14 @@
             "id": "c8c32de085824a9a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/如何在 AI 时代保持自己的专注力.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "如何在 AI 时代保持自己的专注力"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Clippings/如何在 AI 时代保持自己的专注力.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "如何在 AI 时代保持自己的专注力 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Clippings/如何在 AI 时代保持自己的专注力.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "如何在 AI 时代保持自己的专注力 的出链列表"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Clippings/如何在 AI 时代保持自己的专注力.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "如何在 AI 时代保持自己的专注力 的大纲"
             }
           }
         ]
@@ -176,8 +183,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c8c32de085824a9a",
+  "active": "1fd0e29b70f49ee9",
   "lastOpenFiles": [
+    "raw/如何在 AI 时代保持自己的专注力.md",
+    "Clippings/如何在 AI 时代保持自己的专注力.md",
+    "Clippings",
     "wiki/log.md",
     "wiki/index.md",
     "CLAUDE.md",
