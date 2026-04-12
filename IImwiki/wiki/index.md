@@ -20,12 +20,13 @@ Master catalog of all pages in this wiki. Updated on every ingest.
 
 - [[sources/如何在AI时代保持自己的专注力|如何在 AI 时代保持自己的专注力]] — @longdechen12 关于 AI 时代注意力危机的诊断与实践建议 (1 source)
 - [[sources/funclip|FunClip]] — 阿里开源的基于 FunASR 的全自动视频剪辑工具，支持 LLM 智能剪辑 (1 source)
+- [[sources/00后ai沙龙能力来源|00 后 AI 沙龙：能力来源方法论]] — @longdechen12 分享的 IPO 知识变现工作流，3 小时摸透一个领域 (1 source)
 
 ---
 
 ## Entities
 
-- [[entities/longdechen12|观自（@longdechen12）]] — AI 落地培训讲师，问题驱动学习方法论倡导者 (1 source)
+- [[entities/longdechen12|观自（@longdechen12）]] — AI 落地培训讲师，问题驱动学习方法论倡导者 (2 sources)
 - [[entities/funasr|FunASR]] — 阿里巴巴通义语音实验室开源的工业级语音识别框架 (1 source)
 
 ---
@@ -40,6 +41,10 @@ Master catalog of all pages in this wiki. Updated on every ingest.
 - [[concepts/语音识别|语音识别 (ASR)]] — 将人类语音转换为文本的技术，支持时间戳预测和说话人分离 (1 source)
 - [[concepts/热词定制|热词定制]] — ASR 中指定特定词汇提升识别准确率的功能 (1 source)
 - [[concepts/cam++|CAM++]] — 阿里开源的说话人识别模型，支持多说话人场景 (1 source)
+- [[concepts/ipo模型|IPO 模型]] — 输入-处理-输出知识变现工作流，3 小时摸透一个领域 (1 source)
+- [[concepts/notebooklm|NotebookLM]] — Google 的 AI 知识管理工具，无幻觉、可溯源 (1 source)
+- [[concepts/claude-code|Claude Code]] — Anthropic 的 AI 编程助手，支持批量处理和本地化知识沉淀 (1 source)
+- [[concepts/obsidian|Obsidian]] — 基于 Markdown 的本地知识管理工具 (1 source)
 
 ---
 

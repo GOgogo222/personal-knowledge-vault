@@ -5,6 +5,24 @@ Each entry starts with `## [YYYY-MM-DD] <operation> | <title>` for grep-parseabi
 
 ---
 
+## [2026-04-12] ingest | 00 后 AI 沙龙：能力来源方法论
+
+- 原文：`raw/00 后双非电商专业毕业，每周 4 场 AI 沙龙，我的能力从何而来？.md`
+- 来源：https://x.com/longdechen12/status/2036816359343222971
+- 作者：[[entities/longdechen12]]
+- 摘要页：[[sources/00后ai沙龙能力来源]]
+- 新建页面：
+  - [[concepts/ipo模型]]
+  - [[concepts/notebooklm]]
+  - [[concepts/claude-code]]
+  - [[concepts/obsidian]]
+- 更新页面：
+  - [[entities/longdechen12]]（新增商业成果、核心理念）
+- 更新：`wiki/index.md`
+- 关键新增：IPO 知识变现工作流（输入-处理-输出），NotebookLM × Claude Code 联动方案
+
+---
+
 ## [2026-04-12] ingest | FunClip
 
 - 原文：`raw/modelscopeFunClip Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.md`
