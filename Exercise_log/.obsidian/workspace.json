@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/00 后双非电商专业毕业，每周 4 场 AI 沙龙，我的能力从何而来？.md",
+                "file": "Clippings/modelscopeFunClip Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 后双非电商专业毕业，每周 4 场 AI 沙龙，我的能力从何而来？"
+              "title": "modelscopeFunClip Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated"
             }
           }
         ]
@@ -180,11 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab0e1f8128bffe4d",
+  "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
+    "Clippings/00 后双非电商专业毕业，每周 4 场 AI 沙龙，我的能力从何而来？.md",
+    "Clippings/modelscopeFunClip Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.md",
     "未命名",
     "LeetCode/LeetCode_Daily.md",
-    "Clippings/00 后双非电商专业毕业，每周 4 场 AI 沙龙，我的能力从何而来？.md",
     "Clippings",
     "数据结构与算法.md",
     "天梯赛.md",
@@ -226,7 +227,6 @@
     "[Project-2/Exercise_log",
     "[Project-2",
     "Attachments",
-    "AssetsImages",
-    "新建文件夹"
+    "AssetsImages"
   ]
 }
