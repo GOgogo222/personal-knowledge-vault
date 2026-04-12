@@ -5,6 +5,22 @@ Each entry starts with `## [YYYY-MM-DD] <operation> | <title>` for grep-parseabi
 
 ---
 
+## [2026-04-12] ingest | FunClip
+
+- 原文：`raw/modelscopeFunClip Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.md`
+- 来源：https://github.com/modelscope/FunClip
+- 摘要页：[[sources/funclip]]
+- 新建页面：
+  - [[entities/funasr]]
+  - [[concepts/paraformer]]
+  - [[concepts/语音识别]]
+  - [[concepts/热词定制]]
+  - [[concepts/cam++]]
+- 更新：`wiki/index.md`
+- 关键新增：阿里开源视频剪辑工具，集成 ASR + LLM 智能剪辑能力
+
+---
+
 ## [2026-04-11] ingest | 如何在 AI 时代保持自己的专注力
 
 - 原文：`raw/如何在 AI 时代保持自己的专注力.md`

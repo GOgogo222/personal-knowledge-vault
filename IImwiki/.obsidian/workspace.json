@@ -178,6 +178,15 @@
   },
   "active": "1fd0e29b70f49ee9",
   "lastOpenFiles": [
+    "wiki/concepts/obsidian.md",
+    "wiki/concepts/ipo模型.md",
+    "wiki/concepts/claude-code.md",
+    "wiki/concepts/notebooklm.md",
+    "wiki/sources/00后ai沙龙能力来源.md",
+    "wiki/concepts/cam++.md",
+    "wiki/concepts/热词定制.md",
+    "wiki/concepts/语音识别.md",
+    "wiki/concepts/paraformer.md",
     "wiki/entities/funasr.md",
     "wiki/sources/funclip.md",
     "raw/00 后双非电商专业毕业，每周 4 场 AI 沙龙，我的能力从何而来？.md",
@@ -202,7 +211,6 @@
     "wiki",
     "raw/assets",
     "raw",
-    "llm-wiki.md",
-    "欢迎.md"
+    "llm-wiki.md"
   ]
 }
