@@ -1,33 +1,33 @@
 ﻿
 **LCD与LED引脚冲突**：  
 
-![[Pasted image 20251005105126.png|image]]
+![image](../../../99-%E9%99%84%E4%BB%B6/%E5%AD%A6%E4%B9%A0%E9%99%84%E4%BB%B6/Exercise_log/Pasted%20image%2020251005105126.png)
   
 所以一开始就没碰过PD2？那我刚开始的功能是怎么做到的？无敌了，卡我三四个小时，记录一下。。。
 
-![[da428a4a864740dfb451bff2ef502ebc.jpg|image]]
+![image](../../../99-%E9%99%84%E4%BB%B6/%E5%AD%A6%E4%B9%A0%E9%99%84%E4%BB%B6/Exercise_log/da428a4a864740dfb451bff2ef502ebc.jpg)
 
 # October 7th
 **救命，把CubeMX更新了一下，旧工程全消失了，一定要引以为戒**
 
 # October 8th
 
-![[定时器内部结构.png|定时器内部结构]]
+![定时器内部结构](../../../99-%E9%99%84%E4%BB%B6/%E5%AD%A6%E4%B9%A0%E9%99%84%E4%BB%B6/Exercise_log/%E5%AE%9A%E6%97%B6%E5%99%A8%E5%86%85%E9%83%A8%E7%BB%93%E6%9E%84.png)
 **定时器内部结构**
 
-![[定时器比喻.png|定时器比喻]]
+![定时器比喻](../../../99-%E9%99%84%E4%BB%B6/%E5%AD%A6%E4%B9%A0%E9%99%84%E4%BB%B6/Exercise_log/%E5%AE%9A%E6%97%B6%E5%99%A8%E6%AF%94%E5%96%BB.png)
 **定时器比喻**
 
-![[定时器频率_周期公式.png|定时器频率_周期公式]]
+![定时器频率_周期公式](../../../99-%E9%99%84%E4%BB%B6/%E5%AD%A6%E4%B9%A0%E9%99%84%E4%BB%B6/Exercise_log/%E5%AE%9A%E6%97%B6%E5%99%A8%E9%A2%91%E7%8E%87_%E5%91%A8%E6%9C%9F%E5%85%AC%E5%BC%8F.png)
 **定时器公式**
 
-![[系统时钟内部结构.png|系统时钟内部结构]]
+![系统时钟内部结构](../../../99-%E9%99%84%E4%BB%B6/%E5%AD%A6%E4%B9%A0%E9%99%84%E4%BB%B6/Exercise_log/%E7%B3%BB%E7%BB%9F%E6%97%B6%E9%92%9F%E5%86%85%E9%83%A8%E7%BB%93%E6%9E%84.png)
 **系统时钟内部结构**
 
 
 # October 13th
 
-![[PWM&PWM模块&信号发生器.png|PWM&PWM模块&信号发生器]]
+![PWM&PWM模块&信号发生器](../../../99-%E9%99%84%E4%BB%B6/%E5%AD%A6%E4%B9%A0%E9%99%84%E4%BB%B6/Exercise_log/PWM%26PWM%E6%A8%A1%E5%9D%97%26%E4%BF%A1%E5%8F%B7%E5%8F%91%E7%94%9F%E5%99%A8.png)
 
 **PWM&PWM模块&信号发生器**
 
@@ -53,7 +53,7 @@
 **两个参数:CNT+指定通道OC**
 
 
-![[STM32系统架构图.jpg|STM32系统架构图]]
+![STM32系统架构图](../../../99-%E9%99%84%E4%BB%B6/%E5%AD%A6%E4%B9%A0%E9%99%84%E4%BB%B6/Exercise_log/STM32%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%9B%BE.jpg)
 
  **STM32系统架构图**
 
@@ -69,18 +69,18 @@
 
 **今天开始学习 *江协科技***  
 
-![[工程架构.png|工程架构]]
+![工程架构](../../../99-%E9%99%84%E4%BB%B6/%E5%AD%A6%E4%B9%A0%E9%99%84%E4%BB%B6/Exercise_log/%E5%B7%A5%E7%A8%8B%E6%9E%B6%E6%9E%84.png)
 
-![[工程架构（2）.png|工程架构（2）]]
+![工程架构（2）](../../../99-%E9%99%84%E4%BB%B6/%E5%AD%A6%E4%B9%A0%E9%99%84%E4%BB%B6/Exercise_log/%E5%B7%A5%E7%A8%8B%E6%9E%B6%E6%9E%84%EF%BC%881%EF%BC%89.png)
 
 ### STM32的工程架构
 
 
-![[句柄是什么.png|句柄是什么]]
+![句柄是什么](../../../99-%E9%99%84%E4%BB%B6/%E5%AD%A6%E4%B9%A0%E9%99%84%E4%BB%B6/Exercise_log/%E5%8F%A5%E6%9F%84%E6%98%AF%E4%BB%80%E4%B9%88.png)
 
 ### 句柄
 
-![[什么是中断函数.png|什么是中断函数]]
+![什么是中断函数](../../../99-%E9%99%84%E4%BB%B6/%E5%AD%A6%E4%B9%A0%E9%99%84%E4%BB%B6/Exercise_log/%E6%9B%B4%E6%96%B0%E4%B8%AD%E6%96%AD.jpg)
 
 ### 中断函数
 
@@ -88,11 +88,11 @@
 
 **宏定义 #define和typedef->专门针对数据类型的改名**
 
-![[指针的定义.png|指针的定义]]
+![指针的定义](../../../99-%E9%99%84%E4%BB%B6/%E5%AD%A6%E4%B9%A0%E9%99%84%E4%BB%B6/Exercise_log/%E6%8C%87%E9%92%88%E7%9A%84%E5%AE%9A%E4%B9%89.png)
 
 **指针的定义**
 
-![[强制类型转换的_星号.png|强制类型转换的_星号]]
+![强制类型转换的_星号](../../../99-%E9%99%84%E4%BB%B6/%E5%AD%A6%E4%B9%A0%E9%99%84%E4%BB%B6/Exercise_log/%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2%E7%9A%84_%E6%98%9F%E5%8F%B7.png)
 
 **强制类型转换的_星号**
 
@@ -104,7 +104,7 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 # October 21th
 
-![[关于频率.png|关于频率]]
+![关于频率](../../../99-%E9%99%84%E4%BB%B6/%E5%AD%A6%E4%B9%A0%E9%99%84%E4%BB%B6/Exercise_log/%E5%85%B3%E4%BA%8E%E9%A2%91%E7%8E%87.png)
 
 **总线的频率问题**
 
@@ -126,7 +126,7 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - 实现了旋转编码器计次 
 - BUG: Num = Encoder();   // 所以显示器一直为0000 
 
-![[PWM基本结构.png|PWM基本结构]]
+![PWM基本结构](../../../99-%E9%99%84%E4%BB%B6/%E5%AD%A6%E4%B9%A0%E9%99%84%E4%BB%B6/Exercise_log/PWM%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84.png)
 
 **PWM基本结构**
 
@@ -140,7 +140,7 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - 了解逐次逼近型的ADC的运行原理(流程：采样->保持 *（采样保持电路)* -> 量化 -> 编码)，学习到其中二分法的思想，可以与放砝码的过程作类比
 - 复习了ADC外围电路的相关知识，电位器可调电压电路，传感器输出电压电路和简易电压转换电路
 
-![[ADC外围电路.png|ADC外围电路]]
+![ADC外围电路](../../../99-%E9%99%84%E4%BB%B6/%E5%AD%A6%E4%B9%A0%E9%99%84%E4%BB%B6/Exercise_log/ADC%E5%A4%96%E5%9B%B4%E7%94%B5%E8%B7%AF.png)
 
 **ADC外围电路**
 
@@ -182,7 +182,7 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - **ROM-只读寄存器**：非易失性，掉电不丢失的寄存器
 - **RAM-随机寄存器**：易失性，掉电丢失的寄存器
 
-![[RAM和ROM.png|RAM和ROM]]
+![RAM和ROM](../../../99-%E9%99%84%E4%BB%B6/%E5%AD%A6%E4%B9%A0%E9%99%84%E4%BB%B6/Exercise_log/RAM%E5%92%8CROM.png)
 
 **RAM和ROM**
 
