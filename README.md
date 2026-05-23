@@ -1,6 +1,6 @@
-# 我的仓库
+# Obsidian Knowledge Vault
 
-这个 Obsidian 仓库已经按 PARA 架构重新整理。
+这是我的 Obsidian 知识库，按 PARA 架构整理，用来沉淀日记、项目、学习资料、读书笔记和知识卡片。
 
 ## 目录结构
 
