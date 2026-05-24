@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-05-23
+updated: 2026-05-24
 ---
 
 # Wiki Index
@@ -22,6 +22,7 @@ Master catalog of all pages in this wiki. Updated on every ingest.
 - [[sources/funclip|FunClip]] — 阿里开源的基于 FunASR 的全自动视频剪辑工具，支持 LLM 智能剪辑 (1 source)
 - [[sources/00后ai沙龙能力来源|00 后 AI 沙龙：能力来源方法论]] — @longdechen12 分享的 IPO 知识变现工作流，3 小时摸透一个领域 (1 source)
 - [[sources/obsidian小白完整入门教程|Obsidian 小白完整入门教程：本地知识库搭建指南]] — 面向新手的 Obsidian 本地知识库搭建教程，当前为部分摘录 (1 source)
+- [[sources/codex社媒资料搜集-2026-05-24|Codex 社交媒体资料搜集：教程、对比与组合玩法]] — 汇总 X、公众号转载、中文教程、社区讨论中关于 Codex 的使用教程、对比和组合方案 (13 sources)
 
 ---
 
@@ -50,6 +51,9 @@ Master catalog of all pages in this wiki. Updated on every ingest.
 - [[concepts/本地知识库|本地知识库]] — 以本地文件为核心、可迁移且 AI 友好的个人知识系统 (1 source)
 - [[concepts/para知识管理|PARA 知识管理]] — 按 Projects、Areas、Resources、Archives 组织资料的方法 (1 source)
 - [[concepts/ai增强markdown|AI 增强 Markdown]] — 用 Markdown 承载结构化知识，并让 AI 参与整理和复用 (1 source)
+- [[concepts/codex|Codex]] — OpenAI 的编程 Agent 系统，覆盖 CLI、App、Cloud、Review、Automation 等形态 (1 source)
+- [[concepts/codex-vs-claude-code|Codex vs Claude Code]] — 从产品架构、额度、上下文、安全边界和团队治理角度比较两类 coding agent (1 source)
+- [[concepts/codex组合工作流|Codex 组合工作流]] — 将 Codex 与 Claude Code、Ollama、本地知识库和自动化系统组合使用的模式 (1 source)
 
 ---
 

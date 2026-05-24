@@ -5,6 +5,20 @@ Each entry starts with `## [YYYY-MM-DD] <operation> | <title>` for grep-parseabi
 
 ---
 
+## [2026-05-24] ingest | Codex 社交媒体资料搜集：教程、对比与组合玩法
+
+- 原文：`00-收件箱/网页剪藏/Codex社媒资料搜集-2026-05-24.md`
+- 来源类型：X 线程、公众号转载、中文教程站、GitHub 教程库、社区论坛、英文媒体实测、官方文档基线
+- 摘要页：[[sources/codex社媒资料搜集-2026-05-24]]
+- 新建页面：
+  - [[concepts/codex]]
+  - [[concepts/codex-vs-claude-code]]
+  - [[concepts/codex组合工作流]]
+- 更新：`index.md`
+- 关键新增：Codex 正从 CLI 讨论转向编程 Agent 平台；社媒重点关注教程化、与 Claude Code 的产品体验对比、以及跨工具组合工作流。
+
+---
+
 ## [2026-05-23] ingest | Obsidian 小白完整入门教程：本地知识库搭建指南
 
 - 原文：`00-收件箱/网页剪藏/Obsidian小白完整入门教程-本地知识库.md`
