@@ -9,3 +9,7 @@
 - `04-领域/`：长期维护的责任范围
 - `05-资源/`：学习资料、读书笔记和知识卡片
 - `06-归档/`：完结或暂时不用的内容
+
+## 外部仓库
+
+- [cpp-algorithms-lab](https://github.com/GOgogo222/cpp-algorithms-lab)：C++ 练习、LeetCode 题解和算法刷题笔记。
